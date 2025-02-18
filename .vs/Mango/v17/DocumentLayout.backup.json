@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\source\\repos\\Mango\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\giolga\\source\\repos\\mango\\mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\giolga\\source\\repos\\mango\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\giolga\\source\\repos\\mango\\mango.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\giolga\\source\\repos\\mango\\mango.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\Mango\\Mango.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\Mango\\Mango.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:26:11.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:26:02.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Models\\DTO\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Models\\DTO\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Models\\DTO\\ResponseDto.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Models\\DTO\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:18:25.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwH0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:12:36.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 913,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
