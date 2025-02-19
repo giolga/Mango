@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f2hCfqbpoYs=",
+  "dgSpecHash": "RWnNK7pr0qE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GioLGA\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GioLGA\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\GioLGA\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
