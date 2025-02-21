@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4V2ULNm2N6jA+VPaB+2u6oxbx5PBiC1O/UxZRC1TjlU=",
+  "Hash": "SfZnXTBhKX9IgkSu/dpUB824onKG6DUWUzi/OeiqvfQ=",
   "Source": "Mango.Web",
   "BasePath": "_content/Mango.Web",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "7ut735680f",
-      "Integrity": "MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks=",
+      "Fingerprint": "108b5i5a9r",
+      "Integrity": "QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Mikey\\Desktop\\Mango\\Mango.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mango.Web.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "7ut735680f",
-      "Integrity": "MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks=",
+      "Fingerprint": "108b5i5a9r",
+      "Integrity": "QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Mikey\\Desktop\\Mango\\Mango.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mango.Web.bundle.scp.css"
@@ -6241,7 +6241,7 @@
       ]
     },
     {
-      "Route": "Mango.Web.7ut735680f.bundle.scp.css",
+      "Route": "Mango.Web.108b5i5a9r.bundle.scp.css",
       "AssetFile": "C:\\Users\\Mikey\\Desktop\\Mango\\Mango.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Mango.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6251,7 +6251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1127"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -6259,11 +6259,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks=\""
+          "Value": "\"QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 09:44:24 GMT"
+          "Value": "Fri, 21 Feb 2025 10:01:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6273,7 +6273,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7ut735680f"
+          "Value": "108b5i5a9r"
         },
         {
           "Name": "label",
@@ -6281,12 +6281,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks="
+          "Value": "sha256-QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U="
         }
       ]
     },
     {
-      "Route": "Mango.Web.7ut735680f.styles.css",
+      "Route": "Mango.Web.108b5i5a9r.styles.css",
       "AssetFile": "C:\\Users\\Mikey\\Desktop\\Mango\\Mango.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Mango.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6296,7 +6296,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1127"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -6304,11 +6304,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks=\""
+          "Value": "\"QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 09:44:24 GMT"
+          "Value": "Fri, 21 Feb 2025 10:01:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6318,7 +6318,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7ut735680f"
+          "Value": "108b5i5a9r"
         },
         {
           "Name": "label",
@@ -6326,7 +6326,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks="
+          "Value": "sha256-QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U="
         }
       ]
     },
@@ -6341,7 +6341,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1127"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -6349,11 +6349,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks=\""
+          "Value": "\"QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 09:44:24 GMT"
+          "Value": "Fri, 21 Feb 2025 10:01:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6363,7 +6363,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks="
+          "Value": "sha256-QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U="
         }
       ]
     },
@@ -6378,7 +6378,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1127"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -6386,11 +6386,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks=\""
+          "Value": "\"QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 09:44:24 GMT"
+          "Value": "Fri, 21 Feb 2025 10:01:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6400,7 +6400,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks="
+          "Value": "sha256-QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U="
         }
       ]
     }

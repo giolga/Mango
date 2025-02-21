@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "Mango.Web.7ut735680f.styles.css",
+      "Route": "Mango.Web.108b5i5a9r.styles.css",
       "AssetFile": "Mango.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1127"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks=\""
+          "Value": "\"QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 09:44:24 GMT"
+          "Value": "Fri, 21 Feb 2025 10:01:09 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7ut735680f"
+          "Value": "108b5i5a9r"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks="
+          "Value": "sha256-QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U="
         },
         {
           "Name": "label",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1127"
+          "Value": "1084"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks=\""
+          "Value": "\"QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 09:44:24 GMT"
+          "Value": "Fri, 21 Feb 2025 10:01:09 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MfYftOpnss/Iokap6m05yUwZx6u0lyIAbF9HjZp22ks="
+          "Value": "sha256-QXpmxWuEVhQu49+OunJFziUtisw0tfMhoXOlj4Ktk0U="
         }
       ]
     },
