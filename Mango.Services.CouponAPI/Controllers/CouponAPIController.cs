@@ -39,23 +39,6 @@ namespace Mango.Services.CouponAPI.Controllers
             return _response;
         }
 
-        [HttpGet]
-        [Route("GetByCode/{code}")]
-        public ResponseDto Get(string code)
-        {
-            try
-            {
-                Coupon obj = _context.Coupons.First(c => c.CouponCode.ToLower() == code.ToLower());
-                _response.Result = _mapper.Map<CouponDto>(obj);
-            }
-            catch (Exception ex)
-            {
-                _response.IsSuccess = false;
-                _response.Message = ex.Message;
-            }
-
-            return _response;
-        }
 
         [HttpGet]
         [Route("{id:int}")]
@@ -68,6 +51,24 @@ namespace Mango.Services.CouponAPI.Controllers
                 {
                     _response.IsSuccess = false;
                 }
+                _response.Result = _mapper.Map<CouponDto>(obj);
+            }
+            catch (Exception ex)
+            {
+                _response.IsSuccess = false;
+                _response.Message = ex.Message;
+            }
+
+            return _response;
+        }
+
+        [HttpGet]
+        [Route("GetByCode/{code}")]
+        public ResponseDto Get(string code)
+        {
+            try
+            {
+                Coupon obj = _context.Coupons.First(c => c.CouponCode.ToLower() == code.ToLower());
                 _response.Result = _mapper.Map<CouponDto>(obj);
             }
             catch (Exception ex)
@@ -97,7 +98,7 @@ namespace Mango.Services.CouponAPI.Controllers
             return _response;
         }
 
-        [HttpPut("/{id}")]
+        [HttpPut]
         public ResponseDto Put([FromBody] CouponDto couponDto)
         {
             try
@@ -118,6 +119,7 @@ namespace Mango.Services.CouponAPI.Controllers
         }
 
         [HttpDelete]
+        [Route("{id:int}")]
         public ResponseDto Delete(int id)
         {
             try
