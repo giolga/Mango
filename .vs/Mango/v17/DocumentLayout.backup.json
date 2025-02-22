@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Mango.Web\\Views\\Coupon\\CouponIndex.cshtml",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Views\\Coupon\\CouponIndex.cshtml",
               "RelativeToolTip": "Mango.Web\\Views\\Coupon\\CouponIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-22T16:26:16.05Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Mango.Web\\Controllers\\CouponController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T16:24:25.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T16:24:25.042Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Mango.Web\\Services\\CouponService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:29:16.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:29:16.132Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "Mango.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:56:39.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T15:56:39.263Z"
             }
           ]
         },
