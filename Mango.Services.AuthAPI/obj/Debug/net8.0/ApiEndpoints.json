@@ -16,7 +16,13 @@
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Mango.Services.AuthAPI.Models.DTO.RegistrationRequestDto",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]
