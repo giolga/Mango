@@ -9,6 +9,10 @@ namespace Mango.Web.Services
 {
     public class BaseService : IBaseService
     {
+        /*
+         IHttpClientFactory is an interface in ASP.NET Core that helps you create and manage instances of HttpClient. 
+         It helps avoid socket exhaustion issues that can occur when you create and destroy multiple instances of HttpClient frequently.
+         */
         private readonly IHttpClientFactory _clientFactory;
         public BaseService(IHttpClientFactory httpClientFactory)
         {

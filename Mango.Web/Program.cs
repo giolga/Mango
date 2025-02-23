@@ -4,7 +4,7 @@ using Mango.Web.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// This service provides access to the current HttpContext, which contains information about the HTTP request and response, as well as other contextual data.
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddHttpClient();
