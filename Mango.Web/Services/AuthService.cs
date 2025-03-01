@@ -12,9 +12,9 @@ namespace Mango.Web.Services
             _baseService = baseService;
         }
 
-        public async Task<ResponseDto?> AssignAsync(RegistrationRequestDto registrationRequestDto)
+        public async Task<ResponseDto?> AssignRoleAsync(RegistrationRequestDto registrationRequestDto)
         {
-            return await _baseService.SendAsync(new RequestDto
+            return await _baseService.SendAsync(new RequestDto()
             {
                 ApiType = SD.ApiType.POST,
                 Data = registrationRequestDto,
