@@ -19,7 +19,7 @@ namespace Mango.Services.AuthAPI.Controllers
         }
 
 
-        [HttpPost("/register")]
+        [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegistrationRequestDto model)
         {
             var errorMessage = await _authService.Register(model);
@@ -33,7 +33,7 @@ namespace Mango.Services.AuthAPI.Controllers
             return Ok(_response);
         }
 
-        [HttpPost("/login")]
+        [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginRequestDto loginRequest)
         {
             var loginResponse = await _authService.Login(loginRequest);
@@ -48,7 +48,7 @@ namespace Mango.Services.AuthAPI.Controllers
             return Ok(_response);
         }
 
-        [HttpPost("/assign-role")]
+        [HttpPost("assign-role")]
         public async Task<IActionResult> AssignRole([FromBody] RegistrationRequestDto model)
         {
             var assignRoleSuccessful = await _authService.AssignRole(model.Email, model.Role.ToUpper());

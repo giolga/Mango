@@ -18,8 +18,8 @@ namespace Mango.Web.Controllers
         [HttpGet]
         public IActionResult Login()
         {
-            LoginRequestDto login = new LoginRequestDto();
-            return View(login);
+            LoginRequestDto loginRequestDto = new LoginRequestDto();
+            return View(loginRequestDto);
         }
 
         [HttpGet]
@@ -40,35 +40,32 @@ namespace Mango.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Register(RegistrationRequestDto obj)
         {
-            ResponseDto result = await _authService.RegisterAsync(obj);
-            ResponseDto assingRole;
+            ResponseDto? result = await _authService.RegisterAsync(obj);
+            ResponseDto assignRole;
 
-            if (result != null && result.IsSuccess)
+            if(result != null && result.IsSuccess)
             {
-                if (string.IsNullOrEmpty(obj.Role))
+                if(string.IsNullOrEmpty(obj.Role))
                 {
                     obj.Role = SD.RoleCustomer;
                 }
-                assingRole = await _authService.AssignRoleAsync(obj);
-                if (assingRole != null && assingRole.IsSuccess)
+
+                assignRole = await _authService.AssignRoleAsync(obj);
+                if(assignRole != null && assignRole.IsSuccess)
                 {
                     TempData["success"] = "Registration Successful";
                     return RedirectToAction(nameof(Login));
                 }
             }
 
-            else
-            {
-                TempData["error"] = result.Message;
-            }
-
             var roleList = new List<SelectListItem>()
             {
-                new SelectListItem{Text=SD.RoleAdmin,Value=SD.RoleAdmin},
-                new SelectListItem{Text=SD.RoleCustomer,Value=SD.RoleCustomer},
+                new SelectListItem{Text = SD.RoleAdmin, Value = SD.RoleAdmin},
+                new SelectListItem{Text = SD.RoleCustomer, Value = SD.RoleCustomer},
             };
 
             ViewBag.RoleList = roleList;
+
             return View(obj);
         }
 
