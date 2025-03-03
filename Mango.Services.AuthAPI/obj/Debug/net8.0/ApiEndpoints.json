@@ -2,7 +2,7 @@
   {
     "ContainingType": "Mango.Services.AuthAPI.Controllers.AuthAPIController",
     "Method": "AssignRole",
-    "RelativePath": "assign-role",
+    "RelativePath": "api/auth/assign-role",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -18,7 +18,7 @@
   {
     "ContainingType": "Mango.Services.AuthAPI.Controllers.AuthAPIController",
     "Method": "Login",
-    "RelativePath": "login",
+    "RelativePath": "api/auth/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -34,7 +34,7 @@
   {
     "ContainingType": "Mango.Services.AuthAPI.Controllers.AuthAPIController",
     "Method": "Register",
-    "RelativePath": "register",
+    "RelativePath": "api/auth/register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
