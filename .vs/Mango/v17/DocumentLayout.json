@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|c:\\users\\giolga\\desktop\\mango\\mango.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|c:\\users\\giolga\\desktop\\mango\\mango.web\\services\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\iservice\\itokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|c:\\users\\giolga\\desktop\\mango\\mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AFF82C0-7C98-4AC3-AFB8-C041C92AB942}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\giolga\\desktop\\mango\\mango.services.authapi\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AFF82C0-7C98-4AC3-AFB8-C041C92AB942}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|c:\\users\\giolga\\desktop\\mango\\mango.web\\services\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|c:\\users\\giolga\\desktop\\mango\\mango.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|c:\\users\\giolga\\desktop\\mango\\mango.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AFF82C0-7C98-4AC3-AFB8-C041C92AB942}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\giolga\\desktop\\mango\\mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF82C0-7C98-4AC3-AFB8-C041C92AB942}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|c:\\users\\giolga\\desktop\\mango\\mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AFF82C0-7C98-4AC3-AFB8-C041C92AB942}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\giolga\\desktop\\mango\\mango.services.authapi\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF82C0-7C98-4AC3-AFB8-C041C92AB942}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\iservice\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|c:\\users\\giolga\\desktop\\mango\\mango.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E31C7021-6A51-4874-8F60-41F7317883E4}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2AFF82C0-7C98-4AC3-AFB8-C041C92AB942}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|c:\\users\\giolga\\desktop\\mango\\mango.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AFF82C0-7C98-4AC3-AFB8-C041C92AB942}|Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,92 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JwtTokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
-              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
-              "RelativeToolTip": "Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T18:45:10.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ITokenProvider.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Services\\IService\\ITokenProvider.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Services\\IService\\ITokenProvider.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Services\\IService\\ITokenProvider.cs",
-              "RelativeToolTip": "Mango.Web\\Services\\IService\\ITokenProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T18:28:42.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenProvider.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Services\\TokenProvider.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Services\\TokenProvider.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Services\\TokenProvider.cs",
-              "RelativeToolTip": "Mango.Web\\Services\\TokenProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T18:14:45.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Program.cs",
-              "RelativeToolTip": "Mango.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T11:25:10.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Services\\BaseService.cs",
-              "RelativeDocumentMoniker": "Mango.Web\\Services\\BaseService.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Services\\BaseService.cs",
-              "RelativeToolTip": "Mango.Web\\Services\\BaseService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAawFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T11:07:59.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Views\\Auth\\Register.cshtml",
-              "RelativeDocumentMoniker": "Mango.Web\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Views\\Auth\\Register.cshtml",
-              "RelativeToolTip": "Mango.Web\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T10:54:35.227Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mango.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T10:24:51.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Web\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Mango.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwHgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T15:09:28.638Z",
+              "WhenOpened": "2025-03-04T10:16:20.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Service\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:12:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Service\\IService\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:12:29.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:11:09.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "Mango.Services.AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:11:06.294Z",
               "EditorCaption": ""
             }
           ]
