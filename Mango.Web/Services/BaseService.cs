@@ -14,11 +14,13 @@ namespace Mango.Web.Services
          It helps avoid socket exhaustion issues that can occur when you create and destroy multiple instances of HttpClient frequently.
          */
         private readonly IHttpClientFactory _clientFactory;
-        public BaseService(IHttpClientFactory httpClientFactory)
+        private readonly ITokenProvider _tokenProvider;
+        public BaseService(IHttpClientFactory httpClientFactory, ITokenProvider tokenProvider)
         {
             _clientFactory = httpClientFactory;
+            _tokenProvider = tokenProvider;
         }
-        public async Task<ResponseDto?> SendAsync(RequestDto requestDto)
+        public async Task<ResponseDto?> SendAsync(RequestDto requestDto, bool withBearer)
         {
             try
             {
@@ -28,6 +30,11 @@ namespace Mango.Web.Services
                 HttpRequestMessage message = new HttpRequestMessage();
                 message.Headers.Add("Accept", "application/json");
                 //token
+                if(withBearer)
+                {
+                    var token = _tokenProvider.GetToken();
+                    message.Headers.Add("Authorization", $"Bearer {token}");
+                }
                 message.RequestUri = new Uri(requestDto.Url);
 
                 if (requestDto.Data != null)
