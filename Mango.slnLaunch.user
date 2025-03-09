@@ -13,6 +13,10 @@
       {
         "Path": "Mango.Services.AuthAPI\\Mango.Services.AuthAPI.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+        "Action": "Start"
       }
     ]
   }
