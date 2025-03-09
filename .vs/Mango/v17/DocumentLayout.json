@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\Desktop\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\giolga\\desktop\\mango\\mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FCB9E8A-BC1B-4ACD-B47F-35E042BFC6C3}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\giolga\\desktop\\mango\\mango.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCB9E8A-BC1B-4ACD-B47F-35E042BFC6C3}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\giolga\\desktop\\mango\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\giolga\\desktop\\mango\\mango.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A65963A-1212-4DA0-949D-E3DD1C4711A1}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FCB9E8A-BC1B-4ACD-B47F-35E042BFC6C3}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|c:\\users\\giolga\\desktop\\mango\\mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCB9E8A-BC1B-4ACD-B47F-35E042BFC6C3}|Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj|solutionrelative:mango.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CouponAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAcwH4AAAAkAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.ProductAPI\\Program.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:49:03.521Z",
+              "WhenOpened": "2025-03-08T16:51:55.624Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebApplicationBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:43:34.747Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.CouponAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.CouponAPI\\Program.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPI\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\Desktop\\Mango\\Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "Mango.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:42:45.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T16:51:02.373Z"
             }
           ]
         },

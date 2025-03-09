@@ -443,7 +443,6 @@ C:\Users\GioLGA\Desktop\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwe
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mango.Services.CouponAPI.props
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mango.Services.CouponAPI.props
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\GioLGA\Desktop\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Se.7A16D26A.Up2Date
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\Mango.Services.CouponAPI.dll
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.CouponAPI\obj\Debug\net8.0\refint\Mango.Services.CouponAPI.dll

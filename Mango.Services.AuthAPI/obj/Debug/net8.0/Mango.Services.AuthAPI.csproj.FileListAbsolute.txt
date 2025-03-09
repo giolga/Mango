@@ -147,7 +147,6 @@ C:\Users\GioLGA\Desktop\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\staticweba
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mango.Services.AuthAPI.props
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mango.Services.AuthAPI.props
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\GioLGA\Desktop\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Se.9E89EA84.Up2Date
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.dll
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.AuthAPI\obj\Debug\net8.0\refint\Mango.Services.AuthAPI.dll
