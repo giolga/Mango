@@ -2,23 +2,24 @@
 using Mango.Services.ProductAPI.Data;
 using Mango.Services.ProductAPI.Models;
 using Mango.Services.ProductAPI.Models.Dto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Mango.Services.ProductAPI.Controllers
 {
     [Route("api/product")]
     [ApiController]
-    //[Authorize]
+    [Authorize]
     public class ProductAPIController : ControllerBase
     {
         private readonly AppDbContext _context;
         private ResponseDto _response;
         private readonly IMapper _mapper;
 
-        public ProductAPIController(AppDbContext context, ResponseDto response, IMapper mapper)
+        public ProductAPIController(AppDbContext context, IMapper mapper)
         {
             this._context = context;
-            this._response = response;
+            this._response = new ResponseDto();
             this._mapper = mapper;
         }
 
@@ -64,7 +65,7 @@ namespace Mango.Services.ProductAPI.Controllers
 
 
         [HttpPost]
-        //[Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public ResponseDto Post([FromBody] ProductDto productDto)
         {
             try
@@ -83,7 +84,7 @@ namespace Mango.Services.ProductAPI.Controllers
         }
 
         [HttpPut]
-        //[Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public ResponseDto Put([FromBody] ProductDto productDto)
         {
             try
@@ -105,7 +106,7 @@ namespace Mango.Services.ProductAPI.Controllers
 
         [HttpDelete]
         [Route("{id:int}")]
-        //[Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public ResponseDto Delete(int id)
         {
             try

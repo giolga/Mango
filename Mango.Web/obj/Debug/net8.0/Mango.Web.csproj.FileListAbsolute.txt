@@ -78,3 +78,4 @@ C:\Users\GioLGA\Desktop\Mango\Mango.Web\obj\Debug\net8.0\refint\Mango.Web.dll
 C:\Users\GioLGA\Desktop\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.pdb
 C:\Users\GioLGA\Desktop\Mango\Mango.Web\obj\Debug\net8.0\Mango.Web.genruntimeconfig.cache
 C:\Users\GioLGA\Desktop\Mango\Mango.Web\obj\Debug\net8.0\ref\Mango.Web.dll
+C:\Users\GioLGA\Desktop\Mango\Mango.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
