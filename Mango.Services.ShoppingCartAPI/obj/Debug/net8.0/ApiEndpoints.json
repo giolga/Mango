@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartApiController",
+    "Method": "Upsert",
+    "RelativePath": "api/cart/Cartupsert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "Mango.Services.ShoppingCartAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mango.Services.ShoppingCartAPI.Models.DTO.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

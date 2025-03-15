@@ -6,6 +6,7 @@ using Mango.Services.ShoppingCartAPI.Models.DTO;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection.PortableExecutable;
 
 namespace Mango.Services.ShoppingCartAPI.Controllers
 {
@@ -29,7 +30,7 @@ namespace Mango.Services.ShoppingCartAPI.Controllers
         {
             try
             {
-                var cartHeaderFromDb = await _context.CartHeader.FirstOrDefaultAsync(u => u.UserId == cartDto.CartHeader.UserId);
+                var cartHeaderFromDb = await _context.CartHeader.AsNoTracking().FirstOrDefaultAsync(u => u.UserId == cartDto.CartHeader.UserId);
                 if (cartHeaderFromDb is null)
                 {
                     CartHeader cartHeader = _mapper.Map<CartHeader>(cartDto.CartHeader);
@@ -41,23 +42,34 @@ namespace Mango.Services.ShoppingCartAPI.Controllers
                 }
                 else
                 {
-                    var cartDetailsFromDb = await _context.CartDetails.FirstOrDefaultAsync(u => u.ProductId == cartDto.CartDetails.First().ProductId &&
+                    var cartDetailsFromDb = await _context.CartDetails.AsNoTracking().FirstOrDefaultAsync(u => u.ProductId == cartDto.CartDetails.First().ProductId &&
                     u.CartHeaderId == cartHeaderFromDb.CartHeaderId);
 
                     if (cartDetailsFromDb is null)
                     {
+                        cartDto.CartDetails.First().CartHeaderId = cartHeaderFromDb.CartHeaderId;
+                        _context.CartDetails.Add(_mapper.Map<CartDetails>(cartDto.CartDetails.First()));
+                        await _context.SaveChangesAsync();
                     }
                     else
                     {
-
+                        cartDto.CartDetails.First().Count += cartDetailsFromDb.Count;
+                        cartDto.CartDetails.First().CartHeaderId = cartDetailsFromDb.CartHeaderId;
+                        cartDto.CartDetails.First().CartDetailsId = cartDetailsFromDb.CartDetailsId;
+                        _context.CartDetails.Update(_mapper.Map<CartDetails>(cartDto.CartDetails.First()));
+                        await _context.SaveChangesAsync();
                     }
                 }
+
+                _response.Result = cartDto;
             }
             catch (Exception ex)
             {
                 _response.Message = ex.Message.ToString();
                 _response.IsSuccess = false;
             }
+
+            return _response;
         }
     }
 }
