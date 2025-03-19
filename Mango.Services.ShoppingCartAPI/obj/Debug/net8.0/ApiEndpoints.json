@@ -24,5 +24,31 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartApiController",
+    "Method": "RemoveCart",
+    "RelativePath": "api/cart/RemoveCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDetailsId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mango.Services.ShoppingCartAPI.Models.DTO.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
