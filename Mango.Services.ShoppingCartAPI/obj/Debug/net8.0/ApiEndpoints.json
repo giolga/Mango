@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartApiController",
+    "Method": "ApplyCoupon",
+    "RelativePath": "api/cart/ApplyCoupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "Mango.Services.ShoppingCartAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartApiController",
     "Method": "Upsert",
     "RelativePath": "api/cart/Cartupsert",
     "HttpMethod": "POST",
@@ -10,6 +26,32 @@
       {
         "Name": "cartDto",
         "Type": "Mango.Services.ShoppingCartAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Mango.Services.ShoppingCartAPI.Models.DTO.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartApiController",
+    "Method": "GetCart",
+    "RelativePath": "api/cart/GetCart/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -50,5 +92,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartApiController",
+    "Method": "RemoveCoupon",
+    "RelativePath": "api/cart/RemoveCoupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "Mango.Services.ShoppingCartAPI.Models.Dto.CartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

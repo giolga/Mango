@@ -149,3 +149,4 @@ C:\Users\GioLGA\Desktop\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\re
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Mango.Services.ShoppingCartAPI.pdb
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\Mango.Services.ShoppingCartAPI.genruntimeconfig.cache
 C:\Users\GioLGA\Desktop\Mango\Mango.Services.ShoppingCartAPI\obj\Debug\net8.0\ref\Mango.Services.ShoppingCartAPI.dll
+C:\Users\GioLGA\Desktop\Mango\Mango.Services.ShoppingCartAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
