@@ -92,21 +92,5 @@
         "StatusCode": 200
       }
     ]
-  },
-  {
-    "ContainingType": "Mango.Services.ShoppingCartAPI.Controllers.CartApiController",
-    "Method": "RemoveCoupon",
-    "RelativePath": "api/cart/RemoveCoupon",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "cartDto",
-        "Type": "Mango.Services.ShoppingCartAPI.Models.Dto.CartDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
   }
 ]
