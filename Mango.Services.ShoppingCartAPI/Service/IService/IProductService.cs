@@ -1,9 +1,10 @@
 ﻿using Mango.Services.ShoppingCartAPI.Models.Dto;
+using Mango.Services.ShoppingCartAPI.Models.DTO;
 
 namespace Mango.Services.ShoppingCartAPI.Service.IService
 {
-    public interface IProductService
+    public interface ICouponService
     {
-        Task<IEnumerable<ProductDto>> GetProducts();
+        Task<CouponDto> GetCoupon(string couponCode);
     }
 }
